@@ -3,16 +3,18 @@
 AI-Powered Community-Based Scam Detection System
 
 ## Project Overview
-Scam Detect is an AI-powered mobile application
-designed to identify suspicious social media
-profiles and scam messages.
+Scam Detect is an AI-powered mobile application designed to identify suspicious social media fake relationship profiles and scam messages.
 
 ## Technologies
-- React Native (Expo)
-- Python (FastAPI)
-- MySQL
-- Scikit-learn
-- Firebase
+React Native 
+Javascript/python
+FastAPI(python)
+Scikit learn
+TF IDF
+NySql
+Firebase Authentication
+Firebase Cloud Massaging 
+Postman
 
 ## Team
-University Group Project
+Group Project In Applied Group Project
